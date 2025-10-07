@@ -1,5 +1,5 @@
 
-# CS 5804 Mini-Project: Sentiment Analysis of 10-K Reports to Predict Market Performance
+# CS 5804 Final Project: Sentiment Analysis of 10-K Reports to Predict Market Performance
 
 **Group 6 Members:**
  - Devon Boldt devonsboldt@vt.edu 
@@ -63,3 +63,4 @@ Overall, there is no single, across-the-board correlation between 10-K sentiment
 
 ## Conclusion
 <Add it in here once we finish\>
+
